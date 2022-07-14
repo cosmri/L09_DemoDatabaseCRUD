@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">L09_DemoDatabaseCRUD</string>
+    <string name="tv">Enter data to be inserted here:</string>
+    <string name="et"></string>
+    <string name="add">INSERT</string>
+    <string name="edit">EDIT</string>
+    <string name="retrieve">RETRIEVE</string>
+    <string name="tvID">ID:</string>
+    <string name="tvContent">Content:</string>
+    <string name="etContent"></string>
+    <string name="update">UPDATE</string>
+    <string name="delete">DELETE</string>
+</resources>
